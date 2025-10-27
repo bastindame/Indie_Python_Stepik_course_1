@@ -1,0 +1,49 @@
+q1 = input('Хотите много зарабатывать?')
+if q1 == 'Нет':
+    print('Delphi')
+else:
+    q2 = input('Вы тупой?'):
+        if q2 == 'Нет':
+            q3 = input('Вы инженер?')
+            if q3 == 'Нет':
+                q4 = input('У вас есть ноги?')
+                if q4 == 'Нет':
+                    print('C')
+                else:
+                    q5 = input('А они ва нужны?')
+                    if q5 == 'Нет':
+                        print('C++')
+                    else:
+                        print('Java')
+            else:
+                q6 = input('Вам больше 50 лет?')
+                if q6 == 'Нет':
+                    print('Matlab')
+                else:
+                    print('Fortran')
+        else:
+            q7 = input('Очень?')
+            if q7 == 'Нет':
+                q8 = input('Вы насмотрелись уроков ХАУДИ ХО?')
+                if q8 == 'Нет':
+                    q9 = input('Вам нравится Windows?')
+                    if q9 == 'Нет':
+                        q10 = input('Вам нравится Mac?')
+                        if q10 = 'Нет':
+                            print('Perl')
+                        else:
+                            print('Swift')
+                    else:
+                        print('C#')
+                else:
+                    print('Python')
+            else:
+                q11 = input('У вас есть друзья?')
+                if q11 = 'Нет':
+                    print('PHP')
+                else:
+                    q12 = input('Они тоже тупые?')
+                    if q12 == 'Нет':
+                        print('Ruby')
+                    else:
+                        print('JavaScript')
